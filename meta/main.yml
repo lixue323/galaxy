@@ -1,7 +1,7 @@
 galaxy_info:
   author: LiXue
   role_name: alicloud_vpc
-  version: 1.0
+  install version: 1.0
   name: alicloud
   description: Create Alicloud VPC
   company: your company (optional)
