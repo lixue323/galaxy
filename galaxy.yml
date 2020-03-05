@@ -1,0 +1,11 @@
+namespace: "alicloud"
+name: "vpc"
+version: "1.0"
+description: "Demo showing how to distribute modules and plugins using collections in Ansible 2.8"
+authors: ["LiXue"]
+license: ["MIT"]
+readme: README.md
+tags:
+  - vpc
+  - alicloud
+repository: "https://github.com/lixue323/galaxy"
